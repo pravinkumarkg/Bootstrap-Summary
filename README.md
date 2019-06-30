@@ -7,3 +7,7 @@ Summary about all the topics in Bootstrap
 >  - They are put up for my own understanding.
 >  - Difficulty differs from person to person.
 >  - If you find it easy please make full use of it.
+>  - And if you find anything wrong or typos then please give issues.
+
+# Found interesting then share or clone my repo.
+# `Advance Thanks to all.`
